@@ -11,3 +11,5 @@ def index():
 	return"index"
 
 d = 60
+
+e = 25
