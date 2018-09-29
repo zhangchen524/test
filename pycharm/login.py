@@ -10,4 +10,4 @@ c = 3
 def index():
 	return"index"
 
-c = 60
+d = 60
