@@ -5,3 +5,9 @@ b = 2
 
 #张三的代码
 c = 3
+
+#张三
+def index():
+	return"index"
+
+c = 60
